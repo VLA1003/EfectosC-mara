@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Settings
   m_EditorClassIdentifier: 
   headerSettings:
-    headerText: "Puntos de referencia para c\xE1maras"
-    headerColor: {r: 0.74303323, g: 0.40400004, b: 1, a: 1}
+    headerText: Efectos de post-procesado
+    headerColor: {r: 0.89984936, g: 0.5424528, b: 1, a: 1}
     textAlignmentOptions: 0
     fontStyleOptions: 0
     fontSize: 12
-    fontColor: {r: 1, g: 1, b: 1, a: 1}
+    fontColor: {r: 0, g: 0, b: 0, a: 1}
     dropShadow: 0
