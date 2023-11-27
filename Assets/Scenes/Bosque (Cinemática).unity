@@ -10074,10 +10074,6 @@ MonoBehaviour:
     roll: 0
   - position: {x: -22.958237, y: 10.261816, z: -10.607597}
     roll: 0
-  - position: {x: -21.17937, y: 10.068514, z: -9.311535}
-    roll: 0
-  - position: {x: -19.545273, y: 9.667869, z: -7.3658924}
-    roll: 0
 --- !u!4 &117983836
 Transform:
   m_ObjectHideFlags: 0
@@ -10093,37 +10089,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &151953074
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 151953075}
-  m_Layer: 0
-  m_Name: Punto final (Paneo)
-  m_TagString: Untagged
-  m_Icon: {fileID: -1412012063857583412, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &151953075
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 151953074}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.37111562, z: -0, w: 0.92858666}
-  m_LocalPosition: {x: 26.04, y: 1.928, z: 26.289}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: -43.569, z: 0}
 --- !u!1 &172923861
 GameObject:
   m_ObjectHideFlags: 0
@@ -47201,7 +47166,6 @@ SceneRoots:
   - {fileID: 994001304}
   - {fileID: 1750399314}
   - {fileID: 117983836}
-  - {fileID: 151953075}
   - {fileID: 1246247553}
   - {fileID: 82531270}
   - {fileID: 1214138358}
