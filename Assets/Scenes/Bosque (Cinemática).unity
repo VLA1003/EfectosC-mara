@@ -41474,6 +41474,37 @@ Transform:
   m_Children: []
   m_Father: {fileID: 438608792}
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!1 &1738114045
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1738114046}
+  m_Layer: 0
+  m_Name: "\xC1rboles"
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1738114046
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1738114045}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 17.005255, y: 1.424751, z: 30.611462}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1750399313
 GameObject:
   m_ObjectHideFlags: 0
@@ -47149,6 +47180,7 @@ SceneRoots:
   - {fileID: 1516755544}
   - {fileID: 939902226}
   - {fileID: 1966364903}
+  - {fileID: 1738114046}
   - {fileID: 476461746}
   - {fileID: 1778752027}
   - {fileID: 1807189731}
